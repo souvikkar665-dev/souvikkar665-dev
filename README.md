@@ -34,7 +34,7 @@ $ cat about.txt
 
 Hi, I'm **Souvik Kar**. I'm a BTech CSE (AI & ML) student focused on developing intelligent, real-world solutions that go beyond just theory.
 
-- Best Projects **[Aether-X](https://github.com/sneha-maiti/Disaster_Management.git)** and **[Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron)**
+- Best Projects **[Disaster-Management](https://github.com/sneha-maiti/Disaster_Management.git)** and **[Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron)**
 - Exploring **Machine Learning, Deep Learning & Web Systems**
 - Fun fact: **I love diving into the intersection of AI models and scalable frontend architecture.**
 
@@ -137,20 +137,20 @@ Hi, I'm **Souvik Kar**. I'm a BTech CSE (AI & ML) student focused on developing 
 <table>
 <tr>
 <td width="50%">
+  <a href="https://github.com/sneha-maiti/Disaster_Management">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Disaster-Management-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Disaster-Management-light.svg">
+      <img src="assets/card-Disaster-Management-dark.svg" width="420" alt="Disaster-Management">
+    </picture>
+  </a>
+</td>
+<td width="50%">
   <a href="https://github.com/souvikkar665-dev/Bugatti-Chiron">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Bugatti-Chiron-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Bugatti-Chiron-light.svg">
       <img src="assets/card-Bugatti-Chiron-dark.svg" width="420" alt="Bugatti-Chiron">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/souvikkar665-dev/tech-referee">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-tech-referee-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-tech-referee-light.svg">
-      <img src="assets/card-tech-referee-dark.svg" width="420" alt="tech-referee">
     </picture>
   </a>
 </td>
@@ -166,11 +166,11 @@ Hi, I'm **Souvik Kar**. I'm a BTech CSE (AI & ML) student focused on developing 
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/souvikkar665-dev/AI-Learning">
+  <a href="https://github.com/souvikkar665-dev/tech-referee">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-AI-Learning-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-AI-Learning-light.svg">
-      <img src="assets/card-AI-Learning-dark.svg" width="420" alt="AI-Learning">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-tech-referee-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-tech-referee-light.svg">
+      <img src="assets/card-tech-referee-dark.svg" width="420" alt="tech-referee">
     </picture>
   </a>
 </td>
@@ -181,6 +181,7 @@ Hi, I'm **Souvik Kar**. I'm a BTech CSE (AI & ML) student focused on developing 
 
 | project | repo | stack |
 |---|---|---|
+| **[Disaster-Management](https://github.com/sneha-maiti/Disaster_Management)** | [github.com/sneha-maiti/Disaster_Management](https://github.com/sneha-maiti/Disaster_Management) | `JavaScript` `Crisis Management` `Web` |
 | **[Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron)** | [github.com/souvikkar665-dev/Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron) | `TypeScript` `Web` |
 | **[tech-referee](https://github.com/souvikkar665-dev/tech-referee)** | [github.com/souvikkar665-dev/tech-referee](https://github.com/souvikkar665-dev/tech-referee) | `CSS` `Web` |
 | **[ResearchX-AI](https://github.com/souvikkar665-dev/ResearchX-AI)** | [github.com/souvikkar665-dev/ResearchX-AI](https://github.com/souvikkar665-dev/ResearchX-AI) | `Python` `AI` `Full-Stack` |

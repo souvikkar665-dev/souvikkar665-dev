@@ -335,8 +335,27 @@ def main(argv=None):
     for entry in wanted:
         src = by_name.get(entry["repo"].lower())
         if not src:
-            print(f"  !! {entry['repo']} not found on the account, skipped")
-            continue
+            remote_name = entry.get("fullName") or entry.get("repo")
+            fetched = None
+            if "/" in str(remote_name):
+                try:
+                    fetched = rest(f"/repos/{remote_name}", token)
+                except Exception:
+                    fetched = None
+            if fetched:
+                src = fetched
+            elif entry.get("description"):
+                src = {
+                    "name": entry.get("name") or entry["repo"],
+                    "description": entry.get("description", ""),
+                    "language": entry.get("language", "JavaScript"),
+                    "stargazers_count": entry.get("stars", 0),
+                    "forks_count": entry.get("forks", 0),
+                }
+            else:
+                print(f"  !! {entry['repo']} not found on the account, skipped")
+                continue
+
         card = {
             "name": src["name"],
             "description": entry.get("description") or src.get("description"),

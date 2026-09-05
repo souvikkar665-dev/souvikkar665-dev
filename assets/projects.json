@@ -2,16 +2,25 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
   "projects": [
     {
+      "repo": "Disaster-Management",
+      "fullName": "sneha-maiti/Disaster_Management",
+      "url": "https://github.com/sneha-maiti/Disaster_Management",
+      "description": "Comprehensive disaster response and relief coordination system for crisis management.",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
       "repo": "Bugatti-Chiron",
       "description": "An interactive showcase web application built with modern TypeScript and responsive UI engineering."
     },
     {
-      "repo": "tech-referee",
-      "description": "A smart decision-making comparison tool for evaluating frontend hosting platforms and architectures."
-    },
-    {
       "repo": "ResearchX-AI",
       "description": "An AI-powered full-stack research platform automating literature analysis, synthesis, and workflows."
+    },
+    {
+      "repo": "tech-referee",
+      "description": "A smart decision-making comparison tool for evaluating frontend hosting platforms and architectures."
     },
     {
       "repo": "AI-Learning",
