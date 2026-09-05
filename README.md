@@ -34,7 +34,7 @@ $ cat about.txt
 
 Hi, I'm **Souvik Kar**. I'm a BTech CSE (AI & ML) student focused on developing intelligent, real-world solutions that go beyond just theory.
 
-- Best Prjects **[ResearchX-AI](https://github.com/souvikkar665-dev/ResearchX-AI)** and **[Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron)**
+- Best Prjects **[Aether-X](https://github.com/sneha-maiti/Disaster_Management.git)** and **[Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron)**
 - Exploring **Machine Learning, Deep Learning & Web Systems**
 - Fun fact: **I love diving into the intersection of AI models and scalable frontend architecture.**
 
