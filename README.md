@@ -44,7 +44,7 @@ Hi, I'm **Souvik Kar**. I'm a BTech CSE (AI & ML) student focused on developing 
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,github,figma,blender&perline=10" alt="tech stack">
 
 </div>
 

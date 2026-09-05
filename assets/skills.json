@@ -2,12 +2,37 @@
   "title": "Skill Radar",
   "_comment": "Values are 0-100 and purely self-rated; 5-8 axes reads best.",
   "axes": [
-    { "label": "Python",           "value": 85 },
-    { "label": "Machine Learning", "value": 82 },
-    { "label": "Deep Learning",    "value": 78 },
-    { "label": "TypeScript",       "value": 80 },
-    { "label": "React",            "value": 75 },
-    { "label": "DSA",              "value": 72 },
-    { "label": "Git & Tools",      "value": 80 }
+    {
+      "label": "Python",
+      "value": 85
+    },
+    {
+      "label": "TypeScript",
+      "value": 80
+    },
+    {
+      "label": "JavaScript",
+      "value": 82
+    },
+    {
+      "label": "React",
+      "value": 78
+    },
+    {
+      "label": "Node.js",
+      "value": 75
+    },
+    {
+      "label": "HTML & CSS",
+      "value": 88
+    },
+    {
+      "label": "Figma & Blender",
+      "value": 95
+    },
+    {
+      "label": "Git & GitHub",
+      "value": 82
+    }
   ]
 }
