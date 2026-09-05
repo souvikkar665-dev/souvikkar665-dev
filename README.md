@@ -16,11 +16,9 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/souvikkar665-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/souvik-kar-3775a73a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:souvikkar665@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/souvikkar665-dev"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://codeforces.com/profile/souvikkar665"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/souvikkar665"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=souvikkar665-dev&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -36,7 +34,7 @@ $ cat about.txt
 
 Hi, I'm **Souvik Kar**. I'm a BTech CSE (AI & ML) student focused on developing intelligent, real-world solutions that go beyond just theory.
 
-- Currently building **[ResearchX-AI](https://github.com/souvikkar665-dev/ResearchX-AI)** and **[Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron)**
+- Best Prjects **[ResearchX-AI](https://github.com/souvikkar665-dev/ResearchX-AI)** and **[Bugatti-Chiron](https://github.com/souvikkar665-dev/Bugatti-Chiron)**
 - Exploring **Machine Learning, Deep Learning & Web Systems**
 - Fun fact: **I love diving into the intersection of AI models and scalable frontend architecture.**
 
